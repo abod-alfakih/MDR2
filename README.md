@@ -242,9 +242,6 @@ The project uses `configs.py` for default arguments including:
 * If you use GPU, verify CUDA compatibility with the installed PyTorch version.
 * The project currently targets BraTS-style MRI segmentation with 3 output classes.
 
-## License
-
-Add your license here if you wish to publish the project publicly.
 
 ## Acknowledgments
 
